@@ -1,6 +1,6 @@
 cask "canopy" do
-  version "0.1.0"
-  sha256 :no_check  # placeholder — replaced by homebrew.yml on each release
+  version "0.9.1"
+  sha256 "912f13993fe5b5ab2be6fe3321a8ecb8910525ae6f1e016e0133bd87bf2722ea"
 
   url "https://github.com/juliensimon/canopy/releases/download/v#{version}/Canopy-#{version}.dmg"
   name "Canopy"
