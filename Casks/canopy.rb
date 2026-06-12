@@ -7,7 +7,7 @@ cask "canopy" do
   desc "Parallel Claude Code sessions with git worktrees"
   homepage "https://github.com/juliensimon/canopy"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Canopy.app"
 
