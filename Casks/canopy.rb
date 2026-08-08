@@ -4,7 +4,7 @@ cask "canopy" do
 
   url "https://github.com/juliensimon/canopy/releases/download/v#{version}/Canopy-#{version}.dmg"
   name "Canopy"
-  desc "Parallel Claude Code sessions with git worktrees"
+  desc "Cockpit for parallel Claude Code sessions across git worktrees"
   homepage "https://github.com/juliensimon/canopy"
 
   depends_on macos: :sonoma
