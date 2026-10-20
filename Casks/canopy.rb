@@ -1,6 +1,6 @@
 cask "canopy" do
-  version "1.2.1"
-  sha256 "00a0b6f6c332b36e53d199e916a31bff38382c246042361bfef4050f6adcfaa0"
+  version "0.9.5"
+  sha256 "f3cfea9c75d140d6e621277973deb734f8fed4b7a67a20b50a279b1a52f197d2"
 
   url "https://github.com/juliensimon/canopy/releases/download/v#{version}/Canopy-#{version}.dmg"
   name "Canopy"
